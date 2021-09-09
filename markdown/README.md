@@ -30,7 +30,7 @@ import time
 
 ![string] (url) -> url 부분에 원하는 사진의 링크를 넣어서 사진 출력가능
 
-![string](C:\Users\Administrator\Desktop\TIL\markdown)
+![cat](C:\Users\Administrator\Desktop\TIL\markdown\cat.jpg)
 
 # 텍스트 강조
 
