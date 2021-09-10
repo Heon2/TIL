@@ -30,3 +30,13 @@
 - **git push -u origin master** : 처음 연결을 할때 계정에 로그인하기위한 명령어
 - **git push origin master** : local repo의 최신 커밋을 remote repo로 push합니다.
 - **git clone (remote_repo_url)** : remote repo를 내 local에 복사합니다.
+
+
+
+# github에 연결하기
+
+github에 repository를 생성한다.
+
+1. git bash로 연결 : 폴더생성 -> git init -> 파일생성 -> git add . -> git commit -m "파일명" -> git remote add origin (repo_url) -> git push origin master
+2. 클론으로 연결 : git clone (repo_url)
+
